@@ -1,6 +1,8 @@
 package com.coop.job_search.domain;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
@@ -30,6 +32,7 @@ public class JobSearch {
     @Column(updatable = false)
     private LocalDateTime createTime;
 
+    @Builder
     public JobSearch(String title, String comName, LocalDateTime est, Long revenue, Integer worker) {
         this.title = title;
         this.comName = comName;

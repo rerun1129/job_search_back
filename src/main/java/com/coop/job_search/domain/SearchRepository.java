@@ -1,10 +1,14 @@
 package com.coop.job_search.domain;
 
+import com.coop.job_search.dto.JobResponseDto;
+import org.springframework.data.domain.Page;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
+import java.util.List;
+
 @Repository
-public interface SearchRepository extends JpaRepository<JobSearch,Long> {
+public interface SearchRepository extends JpaRepository<JobSearch,Long>, SearchRepositoryCustom {
 
     //모든 필터가 null 일때 가볍게 쓸 것
     JobSearch findByTitle(String title);
