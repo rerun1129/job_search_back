@@ -7,7 +7,7 @@ import org.springframework.data.domain.Pageable;
 
 public interface SearchRepositoryCustom {
 
-    Page<JobResponseDto> searchPaging(String title, Pageable pageable);
+    Page<JobResponseDto> searchPaging(Pageable pageable);
 
 
 }

@@ -12,7 +12,7 @@ import org.springframework.data.domain.Pageable;
 
 import java.util.List;
 
-import static com.coop.job_search.domain.QJobSearch.jobSearch;
+
 
 @RequiredArgsConstructor
 public class SearchRepositoryImpl implements SearchRepositoryCustom{
@@ -20,18 +20,18 @@ public class SearchRepositoryImpl implements SearchRepositoryCustom{
     private final JPAQueryFactory queryFactory;
 
     @Override
-    public Page<JobResponseDto> searchPaging(String title, Pageable pageable) {
+    public Page<JobResponseDto> searchPaging(Pageable pageable) {
 
         QueryResults<JobResponseDto> results = queryFactory
                 .select(new QJobResponseDto(
-                        jobSearch.est,
-                        jobSearch.revenue,
-                        jobSearch.worker,
-                        jobSearch.title,
-                        jobSearch.comName
+                        QJobSearch.jobSearch.est,
+                        QJobSearch.jobSearch.revenue,
+                        QJobSearch.jobSearch.workers,
+                        QJobSearch.jobSearch.title,
+                        QJobSearch.jobSearch.real_name,
+                        QJobSearch.jobSearch.url
                 ))
-                .from(jobSearch)
-                .where(jobSearch.title.eq(title))
+                .from(QJobSearch.jobSearch)
                 .offset(pageable.getOffset())
                 .limit(pageable.getPageSize())
                 .fetchResults();

@@ -14,18 +14,16 @@ import java.time.format.DateTimeFormatter;
 @NoArgsConstructor
 public class JobRequestDto {
 
-    private LocalDateTime est;
-    private Long revenue;
+    private Integer est;
+    private String revenue;
     private Integer worker;
-    private String title;
 
 
     @Builder
-    public JobRequestDto(LocalDateTime est, Long revenue, Integer worker, String title) {
-        this.est = LocalDateTime.parse(est.format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss.SSS")));
+    public JobRequestDto(Integer est, String revenue, Integer worker) {
+        this.est = est;
         this.revenue = revenue;
         this.worker = worker;
-        this.title = title;
     }
 
 
@@ -33,8 +31,7 @@ public class JobRequestDto {
         return JobSearch.builder()
                 .est(est)
                 .revenue(revenue)
-                .worker(worker)
-                .title(title)
+                .workers(worker)
                 .build();
     }
 
