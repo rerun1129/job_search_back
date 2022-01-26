@@ -14,24 +14,24 @@ import java.time.format.DateTimeFormatter;
 @NoArgsConstructor
 public class JobRequestDto {
 
-    private Integer est;
-    private String revenue;
-    private Integer worker;
+    private Integer foundingDate;
+    private Long revenue;
+    private Integer employee;
 
 
     @Builder
-    public JobRequestDto(Integer est, String revenue, Integer worker) {
-        this.est = est;
+    public JobRequestDto(Integer foundingDate, Long revenue, Integer employee) {
+        this.foundingDate = foundingDate;
         this.revenue = revenue;
-        this.worker = worker;
+        this.employee = employee;
     }
 
 
     public JobSearch toEntity() {
         return JobSearch.builder()
-                .est(est)
+                .foundingDate(foundingDate)
                 .revenue(revenue)
-                .workers(worker)
+                .employee(employee)
                 .build();
     }
 

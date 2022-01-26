@@ -14,21 +14,21 @@ public class JobResponseDto {
      */
     private String title;
     private String url;
-    private Integer est;
-    private String revenue;
-    private Integer worker;
-    private String real_name;
+    private Integer foundingDate;
+    private Long revenue;
+    private Integer employee;
+    private String companyName;
 
     public JobResponseDto() {
     }
 
     @QueryProjection
-    public JobResponseDto(Integer est, String revenue, Integer worker, String title, String real_name, String url) {
-        this.est = est;
+    public JobResponseDto(Integer foundingDate, Long revenue, Integer employee, String title, String companyName, String url) {
+        this.foundingDate = foundingDate;
         this.revenue = revenue;
-        this.worker = worker;
+        this.employee = employee;
         this.title = title;
-        this.real_name = real_name;
+        this.companyName = companyName;
         this.url = url;
     }
 }

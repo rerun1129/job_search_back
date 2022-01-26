@@ -22,34 +22,34 @@ public class JobSearch {
     //회사 csn
     private String corp_name;
     //업력
-    private Integer est;
+    private Integer foundingDate;
     //매출액
-    private String revenue;
+    private Long revenue;
     //사원수
-    private Integer workers;
+    private Integer employee;
     //회사 구분
     private String size;
     //회사 명칭
-    private String real_name;
+    private String companyName;
 
     @Builder
-    public JobSearch(String title, String url, String corp_name, Integer est, String revenue, Integer workers, String size, String real_name) {
+    public JobSearch(String title, String url, String corp_name, Integer foundingDate, Long revenue, Integer employee, String size, String companyName) {
         this.title = title;
         this.url = url;
         this.corp_name = corp_name;
-        this.est = est;
+        this.foundingDate = foundingDate;
         this.revenue = revenue;
-        this.workers = workers;
+        this.employee = employee;
         this.size = size;
-        this.real_name = real_name;
+        this.companyName = companyName;
     }
 
-    public JobSearch(String title, String url, Integer est, String revenue, Integer workers, String real_name) {
+    public JobSearch(String title, String url, Integer foundingDate, Long revenue, Integer employee, String companyName) {
         this.title = title;
         this.url = url;
-        this.est = est;
+        this.foundingDate = foundingDate;
         this.revenue = revenue;
-        this.workers = workers;
-        this.real_name = real_name;
+        this.employee = employee;
+        this.companyName = companyName;
     }
 }

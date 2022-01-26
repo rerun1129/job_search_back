@@ -8,6 +8,9 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.HashMap;
+import java.util.List;
+
 @Service
 @Transactional(readOnly = true)
 @RequiredArgsConstructor
@@ -17,7 +20,12 @@ public class SearchService {
 
 
     public Page<JobResponseDto> findSearch(Pageable pageable) {
-
         return searchRepository.searchPaging(pageable);
     }
+
+    public List<JobResponseDto> filteredSearch(HashMap<String, Object> map) {
+
+        return searchRepository.filteredSearch(map);
+    }
+
 }
