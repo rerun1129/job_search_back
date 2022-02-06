@@ -15,21 +15,13 @@ public class JobSearch {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private Long id;
-    //링크 제목
     private String title;
-    //url
     private String url;
-    //회사 csn
     private String corp_name;
-    //업력
     private Integer foundingDate;
-    //매출액
     private Long revenue;
-    //사원수
     private Integer employee;
-    //회사 구분
     private String size;
-    //회사 명칭
     private String companyName;
 
     @Builder

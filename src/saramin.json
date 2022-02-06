@@ -1,0 +1,2766 @@
+{
+  "content": [
+    {
+      "title": "SE(시스템엔지니어)&기술지원外 정규직 채용(신입)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41821277&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "케이엘정보통신(주)"
+    },
+    {
+      "title": "서버 및 스토리지 엔지니어 모집(경력10년 이상) - 정규직",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41823759&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 1900000000,
+      "companyName": "(주)앱이지"
+    },
+    {
+      "title": "인공지능 학습 데이터 어노테이터 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41824299&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "companyName": "(주)제론테크"
+    },
+    {
+      "title": "스타트업 웹 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41829612&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "주식회사 어글리스톤"
+    },
+    {
+      "title": "[기업부설연구소] IT웹개발 (Spring, java, jsp)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41831003&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 9900000000,
+      "employee": 47,
+      "companyName": "(주)인싸이트"
+    },
+    {
+      "title": "[신입/경력] PHP 웹개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41833601&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "티온네트워크(주)"
+    },
+    {
+      "title": "로지스밸리그룹 창고관리시스템(WMS)개발 C# 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41824887&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)로지스밸리"
+    },
+    {
+      "title": "기술연구소 개발자(신입,경력) 모집 JavaScript/HTML5/Java/C++",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41825723&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 22,
+      "revenue": 8000000000,
+      "employee": 66,
+      "companyName": "㈜엠투소프트"
+    },
+    {
+      "title": "[채용] 슈페릭스 - Software Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41826720&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "companyName": "(주)슈페릭스"
+    },
+    {
+      "title": "데이터분석 전문가",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41835825&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 1100000000,
+      "employee": 13,
+      "companyName": "(주)토이스미스"
+    },
+    {
+      "title": "[서울 성수] 플랫폼 백-엔드 테크 리더",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41836858&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "employee": 7,
+      "companyName": "넥스트레벨스튜디오"
+    },
+    {
+      "title": "[신입/경력]금융사업부 기술영업사원 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41837581&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 11000000000,
+      "employee": 70,
+      "companyName": "(주)퓨쳐시스템"
+    },
+    {
+      "title": "웹 개발자 / 백앤드 개발자 경력직 채용합니다",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41837787&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "companyName": "주식회사 에스알유니버스"
+    },
+    {
+      "title": "[어니소프트(주)] 웹 개발자 경력직 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41838003&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "revenue": 2000000000,
+      "employee": 28,
+      "companyName": "어니소프트(주)"
+    },
+    {
+      "title": "[어니소프트(주)] 솔루션 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41838119&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "revenue": 2000000000,
+      "employee": 28,
+      "companyName": "어니소프트(주)"
+    },
+    {
+      "title": "[주4.5일] JAVA 개발 (영상컨버팅)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41838615&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 323,
+      "companyName": "(주)인라이플"
+    },
+    {
+      "title": "[4.5일] 데이터베이스 관리 (DBA)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41838820&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 323,
+      "companyName": "(주)인라이플"
+    },
+    {
+      "title": "[짐싸] 프론트엔드 주니어 개발자 모집 (1년 이상)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41839382&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 2200000000,
+      "employee": 31,
+      "companyName": "(주)짐싸"
+    },
+    {
+      "title": "글로싸인 주니어 백엔드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41839733&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)글로싸인"
+    },
+    {
+      "title": "[주4일]부문별 신입 및 경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41839893&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)즐거움을더하다"
+    },
+    {
+      "title": "[채용] 슈페릭스 - Quantitative Developer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41826709&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "companyName": "(주)슈페릭스"
+    },
+    {
+      "title": "IT 개발자 채용 [정규직/프리랜서]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41826935&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 6400000000,
+      "employee": 25,
+      "companyName": "(주)포엠에스"
+    },
+    {
+      "title": "전산실 시스템 유지보수 엔지니어 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41831224&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 9100000000,
+      "employee": 12,
+      "companyName": "(주)바즐시스템"
+    },
+    {
+      "title": "Senior Front-end 개발자 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41833336&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 1800000000,
+      "employee": 10,
+      "companyName": "주식회사 오닉스인싸이트코리아"
+    },
+    {
+      "title": "웹개발(PHP, HTML, Ajax, 백엔드) 채용 공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41833785&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "companyName": "(주)팟콘커뮤니케이션"
+    },
+    {
+      "title": "ERP 솔루션 프로젝트 참여 및 유지보수 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41834547&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 500000000,
+      "employee": 5,
+      "companyName": "(주)아이로그"
+    },
+    {
+      "title": "프론트엔드 (웹) 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41835840&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 1100000000,
+      "employee": 13,
+      "companyName": "(주)토이스미스"
+    },
+    {
+      "title": "Tech Lead",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41824942&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 800000000,
+      "employee": 16,
+      "companyName": "(주)퍼블리"
+    },
+    {
+      "title": "[임상기업부설연구소] 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41825641&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "씨엔알리서치"
+    },
+    {
+      "title": "[지피클럽]온라인생활사업본부 웹개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41830023&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 20,
+      "revenue": 401600000000,
+      "employee": 170,
+      "companyName": "(주)지피클럽"
+    },
+    {
+      "title": "기술/기업신용평가 웹 개발자(Java, JSP) 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41833991&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 31,
+      "employee": 206,
+      "companyName": "에스씨아이평가정보(주)"
+    },
+    {
+      "title": "[Qoo10] 기술/개발본부 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41834774&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "employee": 256,
+      "companyName": "지오시스(유)"
+    },
+    {
+      "title": "[그로우코퍼레이션] 퍼블리셔 채용 (경력)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41834979&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 25,
+      "revenue": 191600000000,
+      "employee": 668,
+      "companyName": "이투스교육(주)"
+    },
+    {
+      "title": "[경력] 모바일 앱개발 (Native 또는 Hybrid) 정규직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41835389&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "companyName": "주식회사 비클립"
+    },
+    {
+      "title": "크로스플랫폼 앱개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41839351&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)커뮤니티랩"
+    },
+    {
+      "title": "[코스탁 주식회사] 백엔드 Backend 개발자 채용 /주니어 시니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41840025&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 200000000,
+      "companyName": "코스탁(주)"
+    },
+    {
+      "title": "[scale up] 리액트 APP 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41840139&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "employee": 7,
+      "companyName": "넥스트레벨스튜디오"
+    },
+    {
+      "title": "[토스증권] Core Developer (장내매매)를 모십니다",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39639899&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 176600000000,
+      "employee": 464,
+      "companyName": "(주)비바리퍼블리카"
+    },
+    {
+      "title": "AI 면접 채용 서비스 Front-End 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39707953&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 23800000000,
+      "employee": 213,
+      "companyName": "(주)시대고시기획시대교육"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39709900&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 6,
+      "companyName": "(주)빅워크"
+    },
+    {
+      "title": "Weelo 프론트엔드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39711453&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)앨리스헬스케어"
+    },
+    {
+      "title": "서버/백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39726593&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)스마트퓨쳐"
+    },
+    {
+      "title": "[헬스케어 서비스] 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39739746&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)세나클소프트"
+    },
+    {
+      "title": "서비스 유지 보수 및 개발 (PHP)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39843481&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 6100000000,
+      "employee": 17,
+      "companyName": "(주)에이전트소프트"
+    },
+    {
+      "title": "안드로이드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39866647&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 11600000000,
+      "companyName": "(주)피플펀드컴퍼니"
+    },
+    {
+      "title": "기술 인력 (IPT 파트) 경력",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39883037&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "프론트엔드 엔지니어 (Frontend Engineer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39905494&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "리치톡"
+    },
+    {
+      "title": "데이터 엔지니어 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39928968&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 173,
+      "companyName": "(주)셀바스에이아이"
+    },
+    {
+      "title": "ASP / .NET 웹 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39955377&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "revenue": 54900000000,
+      "employee": 320,
+      "companyName": "(주)휴넷"
+    },
+    {
+      "title": "PHP 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39959208&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 8800000000,
+      "employee": 85,
+      "companyName": "(주)포비즈코리아"
+    },
+    {
+      "title": "[(주)캉카스백화점] html css html5 css3 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39983202&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)캉카스백화점"
+    },
+    {
+      "title": "iOS 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40060149&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)시니스트"
+    },
+    {
+      "title": "iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40145386&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 7000000000,
+      "employee": 66,
+      "companyName": "(주)스포카"
+    },
+    {
+      "title": "Android 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40190886&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 62200000000,
+      "employee": 352,
+      "companyName": "파킹클라우드(주)"
+    },
+    {
+      "title": "시스템 개발자(java)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40221191&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "Android 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40234258&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "IT웹개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40277672&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "나이스지니데이타(주)"
+    },
+    {
+      "title": "프론트엔드 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40285458&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "companyName": "(주)퍼플랩스"
+    },
+    {
+      "title": "Web Application(Front-end) 개발인력(서비스개발팀)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40316028&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "데이터분석가",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40325453&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "employee": 9,
+      "companyName": "(주)도파민팩토리"
+    },
+    {
+      "title": "AI개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40340879&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "에버엑스(주)"
+    },
+    {
+      "title": "웹개발(자사몰) 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40357309&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 35,
+      "revenue": 232400000000,
+      "employee": 120,
+      "companyName": "오진상사(주)"
+    },
+    {
+      "title": "멀티미디어 솔루션 개발 및 유지보수(전문연구요원 가능)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40361220&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "employee": 101,
+      "companyName": "키네마스터(주)"
+    },
+    {
+      "title": "웹사이트(쇼핑몰) 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40378823&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 10,
+      "companyName": "kaimen"
+    },
+    {
+      "title": "PHP 프론트/백엔드 전문연구요원(병역특례) 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40415937&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "revenue": 14900000000,
+      "companyName": "(주)지앤지커머스"
+    },
+    {
+      "title": "[숨고] Mobile App Engineer (React Native/React)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40425899&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "companyName": "(주)브레이브모바일"
+    },
+    {
+      "title": "[지쿠터] PHP / Laravel",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40430686&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 11200000000,
+      "employee": 160,
+      "companyName": "(주)지바이크"
+    },
+    {
+      "title": "[경력] 백앤드(Back End) 개발자를 모십니다!",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40438849&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 900000000,
+      "companyName": "(주)인사이터"
+    },
+    {
+      "title": "[버티컬서비스] iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40447805&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 385300000000,
+      "companyName": "(주)위메프"
+    },
+    {
+      "title": "서버/백엔드",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40455691&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)언플러"
+    },
+    {
+      "title": "[첫차] iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40523275&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 26,
+      "companyName": "(주)미스터픽"
+    },
+    {
+      "title": "웹 FrontEnd 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40529853&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 10600000000,
+      "employee": 86,
+      "companyName": "(주)이노룰스"
+    },
+    {
+      "title": "[첫차] Android 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40536431&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 26,
+      "companyName": "(주)미스터픽"
+    },
+    {
+      "title": "[TRG] 이커머스 개발자(Front -End)를 찾습니다 :)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40545826&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)트렌드리테일그룹"
+    },
+    {
+      "title": "[메가존클라우드] Developer & Designer 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40581593&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 633,
+      "companyName": "메가존클라우드(주)"
+    },
+    {
+      "title": "JAVA 클라우드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40606121&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "companyName": "(주)이글루시큐리티"
+    },
+    {
+      "title": "Node.js Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40606452&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)오피지지"
+    },
+    {
+      "title": "React 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40628455&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "employee": 26,
+      "companyName": "(주)미식의시대"
+    },
+    {
+      "title": "인공지능 헬스케어 풀스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40637412&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 900000000,
+      "companyName": "(주)닥터송"
+    },
+    {
+      "title": "[스티키밤] 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40650688&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)트리니들"
+    },
+    {
+      "title": "iOS 앱 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40657126&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 100000000,
+      "employee": 3,
+      "companyName": "(주)쿼터백그룹"
+    },
+    {
+      "title": "서버/백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40660188&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 9900000000,
+      "employee": 42,
+      "companyName": "(주)윈큐브마케팅"
+    },
+    {
+      "title": "유니티 개발자(경력자) / 게임 개발자 / unity 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40666365&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)에덴룩스"
+    },
+    {
+      "title": "DBA",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40671563&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)매스프레소"
+    },
+    {
+      "title": "QA Manager (QA 매니저)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40684781&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)매스프레소"
+    },
+    {
+      "title": "퍼블리셔 경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40697406&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)시루정보"
+    },
+    {
+      "title": "[뮤직플랫폼FLO] Backend(Senior) 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40715211&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 289,
+      "companyName": "(주)드림어스컴퍼니"
+    },
+    {
+      "title": "[제품 개발] Backend Developer (백엔드 개발자)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40738319&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)매스프레소"
+    },
+    {
+      "title": "LMS 프론트엔드 개발자 및  웹 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40746035&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 2500000000,
+      "employee": 11,
+      "companyName": "(주)에스넷"
+    },
+    {
+      "title": "데이터사이언티스트",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40748744&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 100000000,
+      "employee": 34,
+      "companyName": "(주)카비"
+    },
+    {
+      "title": "아이폰 어플리케이션 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40749343&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)엔디소프트"
+    },
+    {
+      "title": "Web 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40767684&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 1300000000,
+      "companyName": "(주)뉴지스탁"
+    },
+    {
+      "title": "프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40772171&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "companyName": "(주)라인웍스"
+    },
+    {
+      "title": "웹개발자 신입 및 경력(5년 이내) 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40790129&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 3100000000,
+      "employee": 31,
+      "companyName": "(주)가이던스"
+    },
+    {
+      "title": "추천시스템 Back-end 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40797432&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "아틀란 앱 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40799644&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 17,
+      "employee": 118,
+      "companyName": "(주)맵퍼스"
+    },
+    {
+      "title": "PHP 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40806866&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)소프트랩스"
+    },
+    {
+      "title": "[토글] 프론트엔드 개발 매니저 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40814902&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "오픈플랜(주)"
+    },
+    {
+      "title": "[인공지능기업] 인공지능 전문연구요원 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40816428&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 2600000000,
+      "employee": 44,
+      "companyName": "(주)딥브레인에이아이"
+    },
+    {
+      "title": "[문토] 스타트업 Flutter 개발자를 찾습니다. (경력)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40832365&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)문토"
+    },
+    {
+      "title": "IT 백엔드 개발엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40844106&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "companyName": "케이케이데이(주)"
+    },
+    {
+      "title": "공학 연구개발 플랫폼 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40852324&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 1000000000,
+      "employee": 14,
+      "companyName": "(주)버추얼랩"
+    },
+    {
+      "title": "기획팀 JAVA 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40854041&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 19,
+      "revenue": 26800000000,
+      "employee": 151,
+      "companyName": "(주)코리아폴리스쿨"
+    },
+    {
+      "title": "딥러닝 기반 이미지 검색 기술 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40857744&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "employee": 11,
+      "companyName": "(주)디알엠인사이드"
+    },
+    {
+      "title": "PHP 웹개발자(신규 서비스 개발)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40864921&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)이디엠에듀케이션"
+    },
+    {
+      "title": "iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40864971&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)마이리얼트립"
+    },
+    {
+      "title": "ios개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40899059&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 62200000000,
+      "employee": 352,
+      "companyName": "파킹클라우드(주)"
+    },
+    {
+      "title": "시스템 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40906829&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 289,
+      "companyName": "(주)드림어스컴퍼니"
+    },
+    {
+      "title": "[골프존] DBA (DB 프로그래머)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40917257&location=ts&searchType=default_mysearch&paid_fl=n",
+      "employee": 438,
+      "companyName": "(주)골프존"
+    },
+    {
+      "title": "Java, jsp (팀장급~대리급)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40922804&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 56600000000,
+      "employee": 78,
+      "companyName": "(주)비욘드테크"
+    },
+    {
+      "title": "웹개발 경력자 채용 (Python Django, 연봉 업계 최고)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40925974&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)미라클핀테크"
+    },
+    {
+      "title": "sw개발 및 유지보수",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40945647&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 100000000,
+      "employee": 30,
+      "companyName": "(주)노보믹스"
+    },
+    {
+      "title": "S/W 개발자, WEB 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40960363&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "revenue": 200000000,
+      "companyName": "(주)슈가폴"
+    },
+    {
+      "title": "프론트엔드 개발 경력",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40986954&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "피플라이프(주)"
+    },
+    {
+      "title": "솔루션 연구 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40996294&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "employee": 162,
+      "companyName": "(주)엠서클"
+    },
+    {
+      "title": "애플스토어 스페셜리스트 외 다양한 신입/경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41003563&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "애플코리아(유)"
+    },
+    {
+      "title": "앱 풀스택 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41071832&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "employee": 4,
+      "companyName": "디플"
+    },
+    {
+      "title": "[스윗트래커] Back-end(백엔드) 개발자 경력직 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41081385&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "revenue": 26300000000,
+      "employee": 199,
+      "companyName": "(주)써머스플랫폼"
+    },
+    {
+      "title": "Java 웹 풀스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41089505&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "revenue": 3700000000,
+      "employee": 12,
+      "companyName": "(주)커브"
+    },
+    {
+      "title": "백엔드 개발자(Node.js)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41094380&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 5900000000,
+      "employee": 11,
+      "companyName": "(주)이제이엔"
+    },
+    {
+      "title": "iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41101989&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "employee": 1183,
+      "companyName": "(주)바디프랜드"
+    },
+    {
+      "title": "Crypto(암호) 개발자 (경력:3년이상/신입:병특)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41117095&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 89,
+      "companyName": "한국전자인증(주)"
+    },
+    {
+      "title": "모빌리티 서버 소프트웨어 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41124336&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 1000000000,
+      "employee": 19,
+      "companyName": "(주)애니랙티브"
+    },
+    {
+      "title": "[피파온라인4]  서버 엔지니어 ( Server Software Engineer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41127760&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 25000000000,
+      "employee": 60,
+      "companyName": "일렉트로닉아츠코리아유한책임회사"
+    },
+    {
+      "title": "인공위성이미지 분석 딥러닝 엔지니어 팀장급 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41154710&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 600000000,
+      "companyName": "(주)다비오"
+    },
+    {
+      "title": "시스템 운영 [DB 설계 및 운영자]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41158264&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 22,
+      "revenue": 16700000000,
+      "employee": 35,
+      "companyName": "(주)하이디어솔루션즈"
+    },
+    {
+      "title": "개인정보보호 부문 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41160548&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "employee": 239,
+      "companyName": "(주)싸이버원"
+    },
+    {
+      "title": "보안관제(PM/PL) 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41160669&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "employee": 239,
+      "companyName": "(주)싸이버원"
+    },
+    {
+      "title": "프론트엔드 개발자를 채용합니다.",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41164792&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)스튜디오랩"
+    },
+    {
+      "title": "SAP FI/CO Consultant, ABAP 개발 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41170323&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 33,
+      "revenue": 1533500000000,
+      "employee": 203,
+      "companyName": "소니코리아(주)"
+    },
+    {
+      "title": "[잡플래닛] iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41177469&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 500000000,
+      "companyName": "(주)브레인커머스"
+    },
+    {
+      "title": "[스카이피플] 안드로이드 개발자(사이닝 보너스 1,000만원 지급)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41197403&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)에이치소사이어티"
+    },
+    {
+      "title": "프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41198455&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 177200000000,
+      "employee": 146,
+      "companyName": "(주)에이치엠인터내셔날"
+    },
+    {
+      "title": "웹 풀스택 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41202227&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 33,
+      "employee": 689,
+      "companyName": "(주)네패스"
+    },
+    {
+      "title": "서버/백엔드/유지보수 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41237122&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 4800000000,
+      "employee": 40,
+      "companyName": "(주)한국비즈넷"
+    },
+    {
+      "title": "빅데이터 데이터 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41252662&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "revenue": 1700000000,
+      "employee": 21,
+      "companyName": "(주)광개토연구소"
+    },
+    {
+      "title": "[후오비코리아] 가상자산 거래소 Front-end 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41261593&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "employee": 91,
+      "companyName": "후오비(주)"
+    },
+    {
+      "title": "[피파온라인4] Software Engineer (DBA & Data Engineering)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41270335&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 25000000000,
+      "employee": 60,
+      "companyName": "일렉트로닉아츠코리아유한책임회사"
+    },
+    {
+      "title": "[Freed Group] Backend Developer (Jr~Sr)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41285151&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "프리디그룹엘티디"
+    },
+    {
+      "title": "E-Commerce 웹개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41311431&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 1200000000,
+      "employee": 7,
+      "companyName": "(주)밝은정보기술"
+    },
+    {
+      "title": "데이터 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41341317&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "풀스택 CTO(리드개발자)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41347925&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)뮤즈그룹"
+    },
+    {
+      "title": "보안 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41350978&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 44,
+      "companyName": "(주)노르마"
+    },
+    {
+      "title": "[스마트 헬스케어 스타트업] iOS Developer 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41355736&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 1000000000,
+      "companyName": "(주)인포마이닝"
+    },
+    {
+      "title": "SW 개발/운영",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41360297&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 42,
+      "revenue": 366900000000,
+      "employee": 2669,
+      "companyName": "(주)티시스"
+    },
+    {
+      "title": "[알스퀘어] SW 개발 (Android app)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41384526&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 4000000000,
+      "employee": 155,
+      "companyName": "(주)부동산다이렉트"
+    },
+    {
+      "title": "웹 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41391080&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 32,
+      "revenue": 111200000000,
+      "employee": 817,
+      "companyName": "(주)수성엔지니어링"
+    },
+    {
+      "title": "AI/빅데이터 - Data Scientist 연구개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41401371&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)비스텔리젼스"
+    },
+    {
+      "title": "java 웹 플스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41405609&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 3200000000,
+      "employee": 48,
+      "companyName": "(주)아이알큐더스"
+    },
+    {
+      "title": "인공지능(AI) Data Scientist 채용 (박사)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41412070&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 4600000000,
+      "employee": 30,
+      "companyName": "(주)마인즈앤컴퍼니"
+    },
+    {
+      "title": "시니어 소프트웨어 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41413819&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 11600000000,
+      "companyName": "(주)피플펀드컴퍼니"
+    },
+    {
+      "title": "안드로이드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41414759&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 11600000000,
+      "companyName": "(주)피플펀드컴퍼니"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41416920&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)메인메타"
+    },
+    {
+      "title": "AI플랫폼 프론트엔드 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41421313&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 819,
+      "companyName": "넷마블(주)"
+    },
+    {
+      "title": "ERP 담당자(E-accounting)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41421519&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 819,
+      "companyName": "넷마블(주)"
+    },
+    {
+      "title": "Technical Project Manager",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41429561&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 25,
+      "employee": 94,
+      "companyName": "(주)휴머스온"
+    },
+    {
+      "title": "백엔드 개발자 (junior채용)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41438848&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 100000000,
+      "companyName": "신스타프리젠츠(주)"
+    },
+    {
+      "title": "[Bepro11] 파이썬 개발자 - 네트워크/리눅스 (근무지 : 런던 또는 서울)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41443682&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)비프로컴퍼니"
+    },
+    {
+      "title": "[릴팝] 안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41444439&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)크레디미디어"
+    },
+    {
+      "title": "메타버스 플랫폼의 android 개발 [ 경력 ]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41448277&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 600000000,
+      "employee": 11,
+      "companyName": "(주)지노텍"
+    },
+    {
+      "title": "SW Architecture 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41451649&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "revenue": 16700000000,
+      "employee": 175,
+      "companyName": "엠아이큐브솔루션(주)"
+    },
+    {
+      "title": "안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41458941&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)아카에이아이"
+    },
+    {
+      "title": "Web개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41468871&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 32,
+      "revenue": 10100000000,
+      "employee": 77,
+      "companyName": "(주)넥서스커뮤니티"
+    },
+    {
+      "title": "[GS ITM] SI 프로젝트 AA(Application Architect)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41474778&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 17,
+      "revenue": 200200000000,
+      "employee": 765,
+      "companyName": "(주)지에스아이티엠"
+    },
+    {
+      "title": "QA Engineer 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41477682&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "companyName": "(주)이지식스"
+    },
+    {
+      "title": "백엔드 개발자 주니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41485879&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 100000000,
+      "employee": 3,
+      "companyName": "(주)쿼터백그룹"
+    },
+    {
+      "title": "[Infra] devOps Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41503537&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "companyName": "한국축산데이터(주)"
+    },
+    {
+      "title": "Unity 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41512116&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "employee": 148,
+      "companyName": "(주)쓰리아이"
+    },
+    {
+      "title": "한국간편결제진흥원(제로페이) IT 경력직 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41519229&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 19900000000,
+      "companyName": "(재)한국간편결제진흥원(제로페이)"
+    },
+    {
+      "title": "데이터사이언티스트(총괄급)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41523382&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 100000000,
+      "employee": 34,
+      "companyName": "(주)카비"
+    },
+    {
+      "title": "콘텐츠 서비스 플랫폼 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41524752&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 3200000000,
+      "companyName": "(주)미디어창비"
+    },
+    {
+      "title": "[업계1위/신입초봉5천] AI/백엔드 엔지니어(마케팅파트) / 전문연구요원 가능",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41527878&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 9600000000,
+      "employee": 61,
+      "companyName": "(주)버즈니"
+    },
+    {
+      "title": "[1400만 국민앱] 홈쇼핑모아 QA 경력직 ( 주니어)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41527921&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 9600000000,
+      "employee": 61,
+      "companyName": "(주)버즈니"
+    },
+    {
+      "title": "MS SQL Server DBA",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41533211&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)스파이더크래프트"
+    },
+    {
+      "title": "[스마트 헬스케어 스타트업] Markup Developer 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41536431&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 1000000000,
+      "companyName": "(주)인포마이닝"
+    },
+    {
+      "title": "안드로이드 개발자 정규직 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41544285&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "revenue": 1700000000,
+      "employee": 7,
+      "companyName": "디지타이드(주)"
+    },
+    {
+      "title": "개인정보보호 담당자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41563407&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)스파이더크래프트"
+    },
+    {
+      "title": "웹 퍼블리셔 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41576238&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 22200000000,
+      "employee": 50,
+      "companyName": "(주)진이어스"
+    },
+    {
+      "title": "Software Engineer(Back-End)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41578684&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 2000000000,
+      "companyName": "(주)코드스테이츠"
+    },
+    {
+      "title": "iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41580116&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 15,
+      "employee": 31,
+      "companyName": "주은교육(주)"
+    },
+    {
+      "title": "[링크샵스] iOS 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41580642&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 31,
+      "companyName": "(주)링크샵스"
+    },
+    {
+      "title": "[링크샵스] 시스템 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41581239&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 31,
+      "companyName": "(주)링크샵스"
+    },
+    {
+      "title": "3D WebGL 클라이언트 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41584074&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)블루비커"
+    },
+    {
+      "title": "안드로이드 정규직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41591232&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 1400000000,
+      "employee": 26,
+      "companyName": "(주)아이티엘"
+    },
+    {
+      "title": "DevOps Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41598594&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "companyName": "(주)아틀라스랩스"
+    },
+    {
+      "title": "[아틀라스랩스] 전문연구요원 STT Engineer (음성인식)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41598867&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "companyName": "(주)아틀라스랩스"
+    },
+    {
+      "title": "[호텔에삶] 앱 개발자(React Native)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41609243&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)트래블메이커스"
+    },
+    {
+      "title": "[전문연구요원/신입가능] AI/Recommendation System 리서치 엔지니어 - 병역특례",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41613912&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 9600000000,
+      "employee": 61,
+      "companyName": "(주)버즈니"
+    },
+    {
+      "title": "[상장사] Java 및 웹 개발자 (경력)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41617225&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "employee": 88,
+      "companyName": "브레인즈컴퍼니(주)"
+    },
+    {
+      "title": "[캉카스백화점] 웹디자이너/코딩 경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=38781273&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)캉카스백화점"
+    },
+    {
+      "title": "JAVA 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39703341&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 2800000000,
+      "employee": 10,
+      "companyName": "(주)한아이덴티티코리아"
+    },
+    {
+      "title": "iOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39709832&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 6,
+      "companyName": "(주)빅워크"
+    },
+    {
+      "title": "[킥고잉] 모바일 앱개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39710213&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 8700000000,
+      "employee": 42,
+      "companyName": "(주)올룰로"
+    },
+    {
+      "title": "웹 개발 및 운영",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39725517&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "companyName": "(주)포스텍코리아"
+    },
+    {
+      "title": "Front-end Developer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39729304&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)테오라"
+    },
+    {
+      "title": "eCRF 웹개발(PHP ASP)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39734699&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 2700000000,
+      "employee": 23,
+      "companyName": "(주)엠투커뮤니티"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39736835&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 6500000000,
+      "employee": 8,
+      "companyName": "(주)씨에이치그룹"
+    },
+    {
+      "title": "[헬스케어 서비스] 검색 서비스 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39739837&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)세나클소프트"
+    },
+    {
+      "title": "풀스택 개발자(Full-stack Developer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39774084&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "블록워터테크놀로지스"
+    },
+    {
+      "title": "미디어스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39874033&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "백엔드 엔지니어 (Backend Engineer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39905414&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "리치톡"
+    },
+    {
+      "title": "Full Stack Software Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39933528&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 45,
+      "companyName": "차트모굴 유한회사"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40028233&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 4500000000,
+      "employee": 30,
+      "companyName": "(주)두꺼비세상"
+    },
+    {
+      "title": "안드로이드 App 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40068286&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "revenue": 500000000,
+      "companyName": "(주)해피테크놀로지"
+    },
+    {
+      "title": "풀스택 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40118900&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 100000000,
+      "companyName": "(주)에스엠디솔루션"
+    },
+    {
+      "title": "웹개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40144973&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "revenue": 21900000000,
+      "employee": 51,
+      "companyName": "(주)인텔리안시스템즈"
+    },
+    {
+      "title": ".net 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40221057&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "검색 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40221247&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "React Native APP 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40262959&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 2100000000,
+      "employee": 10,
+      "companyName": "(주)덴컴"
+    },
+    {
+      "title": "[메가존] 디자인 인재 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40274936&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 22,
+      "employee": 453,
+      "companyName": "메가존(주)"
+    },
+    {
+      "title": "Web Application(Front-end) 개발인력(MCS개발팀)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40286170&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "웹사이트 풀스택 리드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40311459&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 15200000000,
+      "employee": 43,
+      "companyName": "(주)에이엠컴퍼니"
+    },
+    {
+      "title": "[MCM] Cloud Computing & Security Manager",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40322476&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "revenue": 301900000000,
+      "employee": 158,
+      "companyName": "(주)성주디앤디"
+    },
+    {
+      "title": "[경력] IOS앱 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40337380&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 800000000,
+      "employee": 37,
+      "companyName": "(주)비주얼"
+    },
+    {
+      "title": "[골프존카운티] 백엔드 개발자 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40346086&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 142500000000,
+      "employee": 63,
+      "companyName": "(주)골프존카운티"
+    },
+    {
+      "title": "웹개발자 (프론트엔드 개발)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40373698&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)골든플래닛"
+    },
+    {
+      "title": "[메가존] 이커머스 운영 프로젝트 JAVA 개발 / QC 경력자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40400536&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 22,
+      "employee": 453,
+      "companyName": "메가존(주)"
+    },
+    {
+      "title": "통신 서비스 백앤드 개발자 (VoIP 등)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40419014&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "employee": 8,
+      "companyName": "와인하우스(주)"
+    },
+    {
+      "title": "백엔드 디벨로퍼 시니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40425971&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "EDWO"
+    },
+    {
+      "title": "PHP 백엔드개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40430800&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 700000000,
+      "companyName": "(주)태거스"
+    },
+    {
+      "title": "[카모아] PHP 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40440410&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "employee": 33,
+      "companyName": "(주)팀오투"
+    },
+    {
+      "title": "웹풀스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40448589&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)이디엠에듀케이션"
+    },
+    {
+      "title": "2022 빌리브네이처 채용공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40479719&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)잘론네츄럴"
+    },
+    {
+      "title": "[토스뱅크] 개인정보보호 담당자 분을 모십니다",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40578379&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 176600000000,
+      "employee": 464,
+      "companyName": "(주)비바리퍼블리카"
+    },
+    {
+      "title": "[메가존클라우드] Pre-Sales & Consulting 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40582598&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 633,
+      "companyName": "메가존클라우드(주)"
+    },
+    {
+      "title": "Java Spring Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40606433&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)오피지지"
+    },
+    {
+      "title": "DBA 담당자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40628392&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 94,
+      "companyName": "(주)코인원"
+    },
+    {
+      "title": "백엔드 시니어 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40640227&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 800000000,
+      "employee": 20,
+      "companyName": "(주)웨인힐스벤처스"
+    },
+    {
+      "title": "물류 로봇 관제 솔루션의 웹 기반 UI 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40666142&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "revenue": 100000000,
+      "companyName": "다임리서치(주)"
+    },
+    {
+      "title": "[찌읏] 웹 풀스텍 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40670699&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "companyName": "(주)찌읏"
+    },
+    {
+      "title": "프로그램 개발자 채용 안내",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40693427&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 4000000000,
+      "employee": 38,
+      "companyName": "(주)지앤티솔루션"
+    },
+    {
+      "title": "시스템운영 경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40697424&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)시루정보"
+    },
+    {
+      "title": "솔루션 엔지니어(해외 담당)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40710926&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "employee": 228,
+      "companyName": "(주)파수"
+    },
+    {
+      "title": "[뮤직플랫폼FLO] Frontend(Senior) 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40715134&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 289,
+      "companyName": "(주)드림어스컴퍼니"
+    },
+    {
+      "title": "개발요건 컨설팅 부문 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40724791&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 62200000000,
+      "employee": 352,
+      "companyName": "파킹클라우드(주)"
+    },
+    {
+      "title": "개발 매니저(PM)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40736122&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "companyName": "(주)이스트몹"
+    },
+    {
+      "title": "Frontend Developer (프론트엔드 개발자)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40738365&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)매스프레소"
+    },
+    {
+      "title": "[하우스앱] 안드로이드 앱 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40749963&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "revenue": 2800000000,
+      "companyName": "(주)하우스미디어"
+    },
+    {
+      "title": "ERP MES 솔루션 개발자 인재를 모십니다",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40756265&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 19,
+      "revenue": 10400000000,
+      "employee": 40,
+      "companyName": "(주)도움이티에스"
+    },
+    {
+      "title": "Front-end 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40767733&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "employee": 110,
+      "companyName": "(주)이모션글로벌"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40772163&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "companyName": "(주)라인웍스"
+    },
+    {
+      "title": "[Wordvice] NLP AI 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40775954&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 2900000000,
+      "employee": 20,
+      "companyName": "(주)워드바이스"
+    },
+    {
+      "title": "메타버스 플랫폼 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40788285&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "인타임센터"
+    },
+    {
+      "title": "톡집사(챗봇) 구축/운영 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40798906&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "데이터에 관심있는 Node.js 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40813778&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "employee": 5,
+      "companyName": "(주)서울의료정보연구소"
+    },
+    {
+      "title": "[인공지능기업] 머신러닝/딥러닝 엔지니어 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40816401&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 2600000000,
+      "employee": 44,
+      "companyName": "(주)딥브레인에이아이"
+    },
+    {
+      "title": "백엔드 및 서버 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40822092&location=ts&searchType=default_mysearch&paid_fl=n",
+      "employee": 5,
+      "companyName": "메디버디"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40833211&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "employee": 26,
+      "companyName": "모비두(주)"
+    },
+    {
+      "title": "NEXACRO / XPlatform / JAVA 개발자 구인",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40844456&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 600000000,
+      "employee": 13,
+      "companyName": "(주)몽키소프트"
+    },
+    {
+      "title": "PHP 웹개발자(사이트 개발 및 운영관리)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40864929&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)이디엠에듀케이션"
+    },
+    {
+      "title": "React 웹 프론트 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40865424&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)피치"
+    },
+    {
+      "title": "프론트엔드 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40869693&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)젤리스페이스"
+    },
+    {
+      "title": "[팬플러스] 안드로이드 개발자 경력자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40872424&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 1800000000,
+      "employee": 12,
+      "companyName": "(주)팬마음"
+    },
+    {
+      "title": "DevOps Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40890872&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)마이리얼트립"
+    },
+    {
+      "title": "브랜드 온라인몰 개발 (유니클로, 무인양품 등)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40898418&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 1300,
+      "companyName": "롯데쇼핑㈜e커머스사업본부"
+    },
+    {
+      "title": "UI개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40914711&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "[Blockchain SW Engineer] 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40918457&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 9900000000,
+      "employee": 137,
+      "companyName": "(주)아이콘루프"
+    },
+    {
+      "title": "[Front-End] Web Client 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40918472&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 9900000000,
+      "employee": 137,
+      "companyName": "(주)아이콘루프"
+    },
+    {
+      "title": "[아드리엘] 프론트엔드 엔지니어 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40923139&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 1300000000,
+      "employee": 40,
+      "companyName": "(주)아드리엘"
+    },
+    {
+      "title": "모바일 앱 개발 PM",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40953066&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 100000000,
+      "employee": 22,
+      "companyName": "(주)인디제이"
+    },
+    {
+      "title": "Database Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40960506&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)마이리얼트립"
+    },
+    {
+      "title": "백엔드 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40973005&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "employee": 91,
+      "companyName": "집닥(주)"
+    },
+    {
+      "title": "모바일 앱 개발 및 유지보수 경력",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40986979&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "피플라이프(주)"
+    },
+    {
+      "title": "React 웹 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41006027&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 200000000,
+      "employee": 6,
+      "companyName": "(주)더브이플래닛"
+    },
+    {
+      "title": "[E-Sports 스타트업]팀스노우볼 Data Scientist 모집 공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41015563&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "employee": 12,
+      "companyName": "주식회사 팀스노우볼"
+    },
+    {
+      "title": "[시원스쿨] 웹개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41026470&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 17,
+      "revenue": 33000000000,
+      "employee": 175,
+      "companyName": "(주)에스제이더블유인터내셔널"
+    },
+    {
+      "title": "[온택트헬스] C# 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41041389&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)온택트헬스"
+    },
+    {
+      "title": "[여신티켓] 백엔드 개발자(시니어)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41053458&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 2000000000,
+      "employee": 30,
+      "companyName": "(주)패스트레인"
+    },
+    {
+      "title": "[헬스케어App] 프론트 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41071772&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "employee": 14,
+      "companyName": "(주)비플러스랩"
+    },
+    {
+      "title": "프론트엔드",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41080461&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "employee": 15,
+      "companyName": "(주)테이블엔조이"
+    },
+    {
+      "title": "[Flanet] 백엔드 개발자(Node.js)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41091130&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 5900000000,
+      "employee": 11,
+      "companyName": "(주)이제이엔"
+    },
+    {
+      "title": "[플레이키보드] 웹프론트엔드 개발자를 모십니다 :-)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41096551&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 100000000,
+      "companyName": "(주)비트바이트"
+    },
+    {
+      "title": "알파리뷰 글로벌 프로덕트 파이썬 Python 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41101631&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 1700000000,
+      "companyName": "(주)샐러드랩"
+    },
+    {
+      "title": "DEVOPS 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41102017&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "employee": 1183,
+      "companyName": "(주)바디프랜드"
+    },
+    {
+      "title": "[메가존클라우드] Tanzu Technical Engineer 채용(신입/경력)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41106205&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 633,
+      "companyName": "메가존클라우드(주)"
+    },
+    {
+      "title": "[핏토] 안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41112607&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)내몸랩"
+    },
+    {
+      "title": "웹 / 모바일앱 경력 개발자 채용공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41119461&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "employee": 19,
+      "companyName": "(주)더조인"
+    },
+    {
+      "title": "Backend Developer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41132883&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)아이디엔디"
+    },
+    {
+      "title": "안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41147844&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "employee": 13,
+      "companyName": "주식회사 나목"
+    },
+    {
+      "title": "아틀라시안(Atlassian) 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41158365&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 61,
+      "companyName": "(주)오픈소스컨설팅"
+    },
+    {
+      "title": "Java, Spring 프론트/백엔드 개발 및 유지보수",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41166839&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 500000000,
+      "employee": 13,
+      "companyName": "(주)클릭앤터치"
+    },
+    {
+      "title": "[FAAI] 프론트엔드 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41176662&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 2800000000,
+      "employee": 42,
+      "companyName": "(주)컨트롤클로더"
+    },
+    {
+      "title": "java 또는 node.js  개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41213639&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)아이테크"
+    },
+    {
+      "title": "플랫폼 인프라 개발 DA / DBA",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41237341&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)바이브존"
+    },
+    {
+      "title": "Senior Frontend Engineer, Innovation",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41249837&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)루닛"
+    },
+    {
+      "title": "Junior Software QA Engineer, Lunit INSIGHT",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41258873&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)루닛"
+    },
+    {
+      "title": "[후오비코리아] 가상자산 지갑 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41261607&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "employee": 91,
+      "companyName": "후오비(주)"
+    },
+    {
+      "title": "BSP 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41290672&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 13,
+      "revenue": 100000000,
+      "employee": 34,
+      "companyName": "(주)카비"
+    },
+    {
+      "title": "백엔드(Back-end) 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41313118&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)빌리어네어즈"
+    },
+    {
+      "title": "서버개발자(풀스텍)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41324160&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "companyName": "(주)로완"
+    },
+    {
+      "title": "서버/백엔드 정규직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41342312&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 1400000000,
+      "employee": 26,
+      "companyName": "(주)아이티엘"
+    },
+    {
+      "title": "서버/백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41347959&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)뮤즈그룹"
+    },
+    {
+      "title": "안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41350861&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 44,
+      "companyName": "(주)노르마"
+    },
+    {
+      "title": "Node.js 백엔드 개발자 모집 (NestJS)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41353762&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "파츠고(주)"
+    },
+    {
+      "title": "에이전시 프론트엔드 개발자 채용 [강남구]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41358995&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "companyName": "(주)모멘티"
+    },
+    {
+      "title": "백엔드 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41366049&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 1800000000,
+      "companyName": "(주)얼터너티브투자자문자산운용"
+    },
+    {
+      "title": "[알스퀘어] Data engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41384722&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 4000000000,
+      "employee": 155,
+      "companyName": "(주)부동산다이렉트"
+    },
+    {
+      "title": "시스템엔지니어 경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41387470&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "피플라이프(주)"
+    },
+    {
+      "title": "풀스택 엔지니어 (Full Stack Engineer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41398468&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 2800000000,
+      "companyName": "(주)여의도사람들"
+    },
+    {
+      "title": "Back-end Engineer 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41403493&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "employee": 6,
+      "companyName": "(주)트레져러"
+    },
+    {
+      "title": "[빌리버] 프론트앤드 개발, WebXR오픈소스 도전",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41407904&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 300000000,
+      "companyName": "(주)빌리버"
+    },
+    {
+      "title": "웹/모바일 서비스 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41413368&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 819,
+      "companyName": "넷마블(주)"
+    },
+    {
+      "title": "프론트엔드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41414247&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 11600000000,
+      "companyName": "(주)피플펀드컴퍼니"
+    },
+    {
+      "title": "[주4.5일] 데이터 사이언티스트",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41415436&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 323,
+      "companyName": "(주)인라이플"
+    },
+    {
+      "title": "PHP 웹개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41421273&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 7000000000,
+      "employee": 48,
+      "companyName": "지앤비패럴랙스교육(주)"
+    },
+    {
+      "title": "AI 플랫폼 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41421334&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "employee": 819,
+      "companyName": "넷마블(주)"
+    },
+    {
+      "title": "Back-End 개발자(3년 이상 필수)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41421927&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)패니지먼트"
+    },
+    {
+      "title": "Java 백엔드 서버 개발자(중급)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41424795&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "employee": 292,
+      "companyName": "슈어소프트테크(주)"
+    },
+    {
+      "title": "Java 개발자(중급) 검증자동화",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41426390&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "employee": 292,
+      "companyName": "슈어소프트테크(주)"
+    },
+    {
+      "title": "웹 프로그래머 신입/경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41429814&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "모두먼트(주)"
+    },
+    {
+      "title": "C++ 코드분석전문가/C++ 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41431294&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "employee": 292,
+      "companyName": "슈어소프트테크(주)"
+    },
+    {
+      "title": "[Bepro11] Android 개발자 (근무지 : 런던 또는 서울)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41443707&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)비프로컴퍼니"
+    },
+    {
+      "title": "앱 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41445887&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "companyName": "(주)티디아이"
+    },
+    {
+      "title": "TDI 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41451464&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "companyName": "(주)티디아이"
+    },
+    {
+      "title": "[크몽] Java/Spring 백엔드 개발자(시니어)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41463617&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)크몽"
+    },
+    {
+      "title": "백엔드 엔지니어 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41466746&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "employee": 5,
+      "companyName": "(주)돌봄드림"
+    },
+    {
+      "title": "ASP서비스개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41471155&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 23,
+      "revenue": 30500000000,
+      "employee": 50,
+      "companyName": "이지스엔터프라이즈(주)"
+    },
+    {
+      "title": "Node.js 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41475119&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 900000000,
+      "employee": 23,
+      "companyName": "(주)꿈많은청년들"
+    },
+    {
+      "title": "Computer Vision_[3D Vision]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41477276&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 4600000000,
+      "companyName": "포디리플레이코리아(주)"
+    },
+    {
+      "title": "[AITRICS] 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41484654&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "employee": 25,
+      "companyName": "(주)에이아이트릭스"
+    },
+    {
+      "title": "주차관제 AI S/W 개발 부문 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41485490&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 62200000000,
+      "employee": 352,
+      "companyName": "파킹클라우드(주)"
+    },
+    {
+      "title": "프론트엔드 개발자 시니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41486016&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 100000000,
+      "employee": 3,
+      "companyName": "(주)쿼터백그룹"
+    },
+    {
+      "title": "Unity 게임 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41493403&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)더잭팟"
+    },
+    {
+      "title": "안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41524436&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 18,
+      "companyName": "(주)브이씨"
+    },
+    {
+      "title": "[업계1위/초봉5천] 커머스 백엔드 엔지니어 (Python, Docker)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41527885&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 9600000000,
+      "employee": 61,
+      "companyName": "(주)버즈니"
+    },
+    {
+      "title": "Backend Engineer",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41530231&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "employee": 32,
+      "companyName": "옴니어스(주)"
+    },
+    {
+      "title": "WEB/JSP 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41534070&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 31,
+      "employee": 167,
+      "companyName": "(주)다우데이타"
+    },
+    {
+      "title": "프론트엔드 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41537633&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "오투오페이먼트(주)"
+    },
+    {
+      "title": "서버/백엔드 개발자 정규직 신입 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41544319&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 21,
+      "revenue": 1700000000,
+      "employee": 7,
+      "companyName": "디지타이드(주)"
+    },
+    {
+      "title": "[LG그룹] JAVA 기반 프로젝트 PL/분석/설계/개발자 인재 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41553402&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 20,
+      "revenue": 110400000000,
+      "employee": 649,
+      "companyName": "㈜비즈테크파트너스"
+    },
+    {
+      "title": "함께 성장 할 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41561819&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 6800000000,
+      "companyName": "(주)볼드나인"
+    },
+    {
+      "title": "[윌라] 데이터 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41571272&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 15,
+      "revenue": 11400000000,
+      "employee": 86,
+      "companyName": "(주)인플루엔셜"
+    },
+    {
+      "title": "Software Engineer(Infra)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41578811&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 2000000000,
+      "companyName": "(주)코드스테이츠"
+    },
+    {
+      "title": "사이트 유지 관리 기획 경력자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41580534&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)캉카스백화점"
+    },
+    {
+      "title": "[링크샵스] 빌링 플랫폼 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41581160&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "employee": 31,
+      "companyName": "(주)링크샵스"
+    },
+    {
+      "title": "C# 어플리케이션 소프트웨어 개발자 (경력3년이상~)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41582363&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 100000000,
+      "companyName": "신스타프리젠츠(주)"
+    },
+    {
+      "title": "iOS 정규직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41591235&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 1400000000,
+      "employee": 26,
+      "companyName": "(주)아이티엘"
+    },
+    {
+      "title": "SI프로젝트 AA",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41596588&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 28,
+      "revenue": 444500000000,
+      "employee": 1097,
+      "companyName": "씨제이올리브네트웍스(주)"
+    },
+    {
+      "title": "런드리고 안드로이드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41600494&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 7000000000,
+      "companyName": "(주)의식주컴퍼니"
+    },
+    {
+      "title": "[IMS모빌리티] 백엔드 개발자 (Python)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41608121&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "아이엠에스모빌리티(주)"
+    },
+    {
+      "title": "iOS 개발자 (2년 이상 경력직 채용)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41613828&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "companyName": "(주)아카에이아이"
+    },
+    {
+      "title": "[Wordvice] Frontend 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41613939&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 2900000000,
+      "employee": 20,
+      "companyName": "(주)워드바이스"
+    },
+    {
+      "title": "[뮤직플랫폼 FLO] 데이터 엔지니어 (Python 백엔드 경력자)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=41615318&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "employee": 289,
+      "companyName": "(주)드림어스컴퍼니"
+    },
+    {
+      "title": "[100%무료 취업준비생모집]3D프린터/웹디/건축/게임/프로그래밍",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=34393991&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "이젠컴퓨터아카데미"
+    },
+    {
+      "title": "AI 면접 채용 서비스 Back-End 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39707919&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 23800000000,
+      "employee": 213,
+      "companyName": "(주)시대고시기획시대교육"
+    },
+    {
+      "title": "기술 인력(무전파트_경력)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39709890&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "[아이디어스] 백엔드 개발자(Java)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39714774&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 41600000000,
+      "employee": 160,
+      "companyName": "(주)백패커"
+    },
+    {
+      "title": "웹 프로그래머(PHP)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39734747&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 2700000000,
+      "employee": 23,
+      "companyName": "(주)엠투커뮤니티"
+    },
+    {
+      "title": "프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39736860&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 6500000000,
+      "employee": 8,
+      "companyName": "(주)씨에이치그룹"
+    },
+    {
+      "title": "[헬스케어 서비스] Web Frontend 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39739876&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "companyName": "(주)세나클소프트"
+    },
+    {
+      "title": "스마트 컨트랙트 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39774116&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "블록워터테크놀로지스"
+    },
+    {
+      "title": "웹서비스 Front-end 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39801600&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "설로인(주)"
+    },
+    {
+      "title": "[TRUMPIA, 외국계] Frontend framework 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39865747&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 2500000000,
+      "companyName": "트럼피아(주)"
+    },
+    {
+      "title": "php 웹개발자 [경력]",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39882730&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "revenue": 100000000,
+      "employee": 10,
+      "companyName": "(주)앤스시스템"
+    },
+    {
+      "title": "[산하정보기술] Full Stack Java 경력 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39904601&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 29,
+      "revenue": 8300000000,
+      "employee": 80,
+      "companyName": "(주)산하정보기술"
+    },
+    {
+      "title": "서버 유지보수 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39922024&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)그레이브릿지"
+    },
+    {
+      "title": "Java 웹 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39955303&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "revenue": 54900000000,
+      "employee": 320,
+      "companyName": "(주)휴넷"
+    },
+    {
+      "title": "웹 프론트엔드 엔지니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=39975414&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 3300000000,
+      "employee": 41,
+      "companyName": "(주)더기프팅컴퍼니"
+    },
+    {
+      "title": "백엔드개발자(Back-end Developer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40007205&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 100000000,
+      "companyName": "(주)퍼플랩스"
+    },
+    {
+      "title": "AOS 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40115536&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 94,
+      "companyName": "(주)코인원"
+    },
+    {
+      "title": "백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40148568&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 2100000000,
+      "employee": 10,
+      "companyName": "(주)덴컴"
+    },
+    {
+      "title": "서버 시스템 관리자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40190828&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "revenue": 62200000000,
+      "employee": 352,
+      "companyName": "파킹클라우드(주)"
+    },
+    {
+      "title": "클라우드 운영",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40221067&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "비즈니스 플랫폼",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40221259&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "라이브방송 CMS 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40234200&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 26,
+      "employee": 1232,
+      "companyName": "(주)인터파크"
+    },
+    {
+      "title": "[피치] 백엔드 개발자(Java, Spring)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40268803&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 2,
+      "companyName": "(주)피치"
+    },
+    {
+      "title": "Front-end Engineer_신규서비스(게이머 매칭 서비스)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40277644&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)오피지지"
+    },
+    {
+      "title": "통신서버 호처리 개발인력(컨버전스개발팀)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40285721&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 10,
+      "revenue": 16100000000,
+      "employee": 95,
+      "companyName": "(주)아이페이지온"
+    },
+    {
+      "title": "[유니메오] 모바일 앱개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40291648&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 200000000,
+      "employee": 20,
+      "companyName": "(주)유니메오"
+    },
+    {
+      "title": "Backend 서버 개발",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40310905&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 15200000000,
+      "employee": 24,
+      "companyName": "비즈톡(주)"
+    },
+    {
+      "title": "[정규직] PHP 웹 개발(프론트/ 백엔드, Api 개발) 모집공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40316444&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 10,
+      "companyName": "(주)피플벤처스"
+    },
+    {
+      "title": "뷰티 플랫폼 '밀리언즈' 백엔드 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40321593&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 5100000000,
+      "companyName": "디퍼런트밀리언즈(주)"
+    },
+    {
+      "title": "패션과 최신IT트랜드 접목의 웹프론트&백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40337640&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)지에프앤엘"
+    },
+    {
+      "title": "[레어노트] Senior Software Engineer (Back-end)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40360059&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 7,
+      "revenue": 100000000,
+      "companyName": "(주)휴먼스케이프"
+    },
+    {
+      "title": "네트워크 구축 및 유지보수",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40380050&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 2000000000,
+      "employee": 30,
+      "companyName": "(주)포지큐브"
+    },
+    {
+      "title": "프론트엔드 디벨로퍼 시니어",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40427279&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "EDWO"
+    },
+    {
+      "title": "[버티컬서비스] 백엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40447900&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 385300000000,
+      "companyName": "(주)위메프"
+    },
+    {
+      "title": "iOS 개발자 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40492624&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 6,
+      "revenue": 1300000000,
+      "employee": 9,
+      "companyName": "(주)에이스엔터테인먼트"
+    },
+    {
+      "title": "[첫차] 프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40523309&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "employee": 26,
+      "companyName": "(주)미스터픽"
+    },
+    {
+      "title": "웹 BackEnd 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40529885&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "revenue": 10600000000,
+      "employee": 86,
+      "companyName": "(주)이노룰스"
+    },
+    {
+      "title": "유지보수_시스템 트레이딩 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40542596&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 100000000,
+      "employee": 3,
+      "companyName": "(주)쿼터백그룹"
+    },
+    {
+      "title": "[kt NexR] Java개발 (IoT솔루션)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40546600&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 16,
+      "employee": 86,
+      "companyName": "(주)케이티넥스알"
+    },
+    {
+      "title": "MYOWN 웹 풀스택 개발자 (Lead 개발자)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40562449&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)마이온컴퍼니"
+    },
+    {
+      "title": "[아이디어스] 백엔드 개발자(PHP)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40585759&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "revenue": 41600000000,
+      "employee": 160,
+      "companyName": "(주)백패커"
+    },
+    {
+      "title": "[메가존클라우드] Salesforce 부문 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40587708&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 5,
+      "employee": 633,
+      "companyName": "메가존클라우드(주)"
+    },
+    {
+      "title": "임베디드 개발자 (스타트업 초기 멤버 영입 )",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40592159&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 3,
+      "companyName": "(주)모셔닉"
+    },
+    {
+      "title": "[CLO-SET] 백엔드 개발자 (Backend, .NET Developer)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40605093&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 14,
+      "employee": 111,
+      "companyName": "(주)클로버추얼패션"
+    },
+    {
+      "title": "웹풀스택 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40607070&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 14400000000,
+      "employee": 135,
+      "companyName": "(주)이스트게임즈"
+    },
+    {
+      "title": "[유니메오] 백엔드 개발자(과,차장급)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40613305&location=ts&searchType=default_mysearch&paid_fl=n",
+      "revenue": 200000000,
+      "employee": 20,
+      "companyName": "(주)유니메오"
+    },
+    {
+      "title": "보안 솔루션 개발 신입/경력직 채용공고",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40617928&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 12,
+      "revenue": 3000000000,
+      "employee": 19,
+      "companyName": "(주)예티소프트"
+    },
+    {
+      "title": "프론트엔드 개발자 신입/경력 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40637320&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 9,
+      "revenue": 100000000,
+      "employee": 17,
+      "companyName": "(주)니더"
+    },
+    {
+      "title": "TTV 서비스 프론트엔드 개발자 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40640253&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "revenue": 800000000,
+      "employee": 20,
+      "companyName": "(주)웨인힐스벤처스"
+    },
+    {
+      "title": "개인화 큐레이션, 크롤링 서비스 개발 운영",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40655683&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 4,
+      "employee": 26,
+      "companyName": "(주)미식의시대"
+    },
+    {
+      "title": "백엔드 개발자(5년이상)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40662127&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 11,
+      "companyName": "(주)이스트몹"
+    },
+    {
+      "title": "프론트엔드 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40692708&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 15,
+      "employee": 31,
+      "companyName": "주은교육(주)"
+    },
+    {
+      "title": "웹 프론트엔드 경력직 채용",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40697362&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)시루정보"
+    },
+    {
+      "title": "이커머스 개발 및 유지보수 담당자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40715621&location=ts&searchType=default_mysearch&paid_fl=n",
+      "companyName": "(주)바스미디어"
+    },
+    {
+      "title": "Backend Team 개발자",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40724029&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "revenue": 2500000000,
+      "employee": 26,
+      "companyName": "(주)빅인사이트"
+    },
+    {
+      "title": "[에누리가격비교] 써머스플랫폼 검색개발 경력직 모집",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40737058&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 24,
+      "revenue": 26300000000,
+      "employee": 199,
+      "companyName": "(주)써머스플랫폼"
+    },
+    {
+      "title": "Data Engineer (데이터 엔지니어)",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=40738382&location=ts&searchType=default_mysearch&paid_fl=n",
+      "foundingDate": 8,
+      "companyName": "(주)매스프레소"
+    }
+  ]
+}

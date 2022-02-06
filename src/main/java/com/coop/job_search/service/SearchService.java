@@ -24,7 +24,6 @@ public class SearchService {
     }
 
     public List<JobResponseDto> filteredSearch(HashMap<String, Object> map) {
-
         return searchRepository.filteredSearch(map);
     }
 
