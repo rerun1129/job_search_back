@@ -3,14 +3,10 @@ package com.coop.job_search.domain;
 
 import com.coop.job_search.dto.JobResponseDto;
 import com.coop.job_search.dto.QJobResponseDto;
-import com.querydsl.core.QueryResults;
 import com.querydsl.core.types.dsl.BooleanExpression;
 import com.querydsl.core.types.dsl.NumberPath;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.PageImpl;
-import org.springframework.data.domain.Pageable;
 
 import java.util.HashMap;
 import java.util.List;
@@ -24,9 +20,9 @@ public class SearchRepositoryImpl implements SearchRepositoryCustom{
     private final JPAQueryFactory queryFactory;
 
     @Override
-    public Page<JobResponseDto> searchPaging(Pageable pageable) {
+    public List<JobResponseDto> searchPaging() {
 
-        QueryResults<JobResponseDto> results = queryFactory
+        List<JobResponseDto> results = queryFactory
                 .select(new QJobResponseDto(
                         jobSearch.foundingDate,
                         jobSearch.revenue,
@@ -36,40 +32,38 @@ public class SearchRepositoryImpl implements SearchRepositoryCustom{
                         jobSearch.url
                 ))
                 .from(jobSearch)
-                .offset(pageable.getOffset())
-                .limit(pageable.getPageSize())
-                .fetchResults();
+                .fetch();
 
-        List<JobResponseDto> content = results.getResults();
-        long total = results.getTotal();
-        return new PageImpl<>(content, pageable, total);
+        return results;
     }
 
     @Override
-    public List<JobResponseDto> filteredSearch(HashMap<String, Object> map) {
+    public List<JobResponseDto> filteredSearch(HashMap<String, String> map) {
 
-        Integer foundingDate = 0, employee = 0;
-        String foundingDateBetween = "", employeeBetween = "", revenueBetween = "";
-        long revenue = 0;
+        String foundingDate = map.get("foundingDate");
+        Integer foundingDateInt = 0;
+        String employee = map.get("employee");
+        Integer employeeInt = 0;
+        String revenue = map.get("revenue");
+        long revenueInt = 0;
 
-        if ( map.get("foundingDate") instanceof Integer ){
-            foundingDate = (Integer) map.get("foundingDate");
-        } else {
-            foundingDateBetween = String.valueOf(map.get("foundingDate"));
+        if(foundingDate.equals("between")){
+           foundingDate = map.get("foundingDate"); //between
+        }else {
+            foundingDateInt = Integer.parseInt(map.get("foundingDate"));
         }
 
-        if ( map.get("employee") instanceof Integer ){
-            employee = (Integer) map.get("employee");
-        } else {
-            employeeBetween = String.valueOf(map.get("employee"));
+        if(employee.equals("between")){
+            employee = map.get("employee"); //between
+        }else {
+            employeeInt = Integer.parseInt(map.get("employee"));
         }
 
-        if ( map.get("revenue") instanceof Long ){
-            revenue = Long.parseLong(String.valueOf(map.get("revenue")));
-        } else {
-            revenueBetween = String.valueOf(map.get("revenue"));
+        if(revenue.equals("between")){
+            revenue = map.get("revenue"); //between
+        }else {
+            revenueInt = Long.parseLong(map.get("revenue"));
         }
-
 
 
         List<JobResponseDto> results = queryFactory
@@ -82,19 +76,23 @@ public class SearchRepositoryImpl implements SearchRepositoryCustom{
                         jobSearch.url
                 ))
                 .from(jobSearch)
-                .where(   goeComparator(foundingDate, jobSearch.foundingDate)
-                        , goeComparator(employee, jobSearch.employee)
-                        , goeComparator(revenue, jobSearch.revenue)
-                        , betweenComparator(foundingDateBetween, jobSearch.foundingDate, 0, 5)
-                        , betweenComparator(employeeBetween, jobSearch.employee, 0 ,10)
-                        , betweenComparator(revenueBetween, jobSearch.revenue, 0, 1000000000))
+                .where(   goeComparator(foundingDateInt, jobSearch.foundingDate)
+                        , goeComparator(employeeInt, jobSearch.employee)
+                        , goeComparator(revenueInt, jobSearch.revenue)
+                        , betweenComparator(foundingDate, jobSearch.foundingDate, 0, 5)
+                        , betweenComparator(employee, jobSearch.employee, 0 ,10)
+                        , betweenComparator(revenue, jobSearch.revenue, 0, 1000000000))
                 .fetch();
         return results;
     }
 
 
     private <T extends Number & Comparable<?>> BooleanExpression goeComparator (T condition, NumberPath<T> filtered){
-        return condition.equals(-1) ? null : filtered.goe(condition);
+        if(condition.equals(-1) || condition.equals(-1L)){
+            return null;
+        } else {
+            return filtered.goe(condition);
+        }
     }
 
     private <T extends Number & Comparable<?>> BooleanExpression betweenComparator (String condition, NumberPath<T> filtered, Integer from, Integer to){

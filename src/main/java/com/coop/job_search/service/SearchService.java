@@ -3,8 +3,6 @@ package com.coop.job_search.service;
 import com.coop.job_search.domain.SearchRepository;
 import com.coop.job_search.dto.JobResponseDto;
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -19,11 +17,11 @@ public class SearchService {
     private final SearchRepository searchRepository;
 
 
-    public Page<JobResponseDto> findSearch(Pageable pageable) {
-        return searchRepository.searchPaging(pageable);
+    public List<JobResponseDto> findSearch() {
+        return searchRepository.searchPaging();
     }
 
-    public List<JobResponseDto> filteredSearch(HashMap<String, Object> map) {
+    public List<JobResponseDto> filteredSearch(HashMap<String, String> map) {
         return searchRepository.filteredSearch(map);
     }
 
